@@ -1,25 +1,40 @@
-# AMUL Database Project
+# AMUL Inventory Management Database Project
 
-## Overview
-This project is a relational database system created using MySQL Workbench.
+## Project Overview
+This project is an Inventory Management Database System created using MySQL Workbench.  
+The project is based on a fictional inventory and order management system inspired by AMUL and uses an imaginary dataset for learning purposes.
+
+## Objectives
+- Design a relational database system
+- Manage products, customers, orders, and inventory
+- Understand table relationships using Primary Keys and Foreign Keys
+- Practice SQL queries and joins
 
 ## Features
 - Created multiple relational tables
-- Used Primary Keys and Foreign Keys
-- Inserted sample business data
-- Built relationships between tables
-- Designed ER Diagram
+- Implemented Primary Key and Foreign Key relationships
+- Managed inventory and order details
+- Performed SQL joins and queries
+- Designed ER Diagram for database structure
 
-## Tables Used
+## Tables Included
 - Customer
 - Orders
 - OrderDetails
 - Product
 - Inventory
 
-## Tools Used
+## Tools & Technologies
 - MySQL Workbench
 - SQL
 
-## Learning Outcome
-Learned database design, relationships, normalization, and SQL queries.
+## Learning Outcomes
+Through this project, I learned:
+- Database design
+- Relational schema creation
+- SQL joins and queries
+- ER diagram creation
+- Inventory management workflow
+
+## Note
+This project is created for educational and practice purposes using an imaginary dataset.
